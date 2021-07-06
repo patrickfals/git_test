@@ -1,0 +1,1 @@
+This is Patick's first git project!
